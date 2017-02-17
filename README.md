@@ -13,4 +13,4 @@ You can modify these lines to configure Redis2LINDA.py:
 - To decode the content of a Redis message, you have to write this line in the agents code: pulisciStringa(content_of_message,result_variable_name).
 
 ##Do you need to send messages from MAS to Redis too?##
-See also redis_client.pl: https://github.com/AAAI-DISIM-UnivAQ/RedisClient
+See also RedisClient: https://github.com/AAAI-DISIM-UnivAQ/RedisClient
